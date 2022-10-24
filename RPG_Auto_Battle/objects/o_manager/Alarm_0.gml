@@ -1,0 +1,1 @@
+can_press_start = true
